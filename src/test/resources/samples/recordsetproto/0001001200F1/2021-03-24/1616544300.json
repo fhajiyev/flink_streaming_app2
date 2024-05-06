@@ -1,0 +1,19 @@
+{
+  "sensorId": "0001001200F1",
+  "record": [{
+    "timestamp": 1.616544327E9,
+    "channel": [{
+      "channelType": "INVERTER_OUTPUT",
+      "exportedEnergyWs": "1318551904",
+      "importedEnergyWs": "1318551904",
+      "realPowerW": 453,
+      "voltageV": 1.2345,
+      "reactivePowerVAR": 987,
+      "deviceId": "000100053534",
+      "deviceType": "INVERTER",
+      "aggregateLevel": "RAW"
+    }],
+    "sysMode": "SELF_SUPPLY",
+    "inverterState": "GRID_CONNECTED"
+  }]
+}
